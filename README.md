@@ -1,8 +1,7 @@
 # CS320
 Jonathan Carmichael
 
-12/18/2022
-Gaston
+12/18/2022, Gaston
 
 Week Eight Questions:
 
